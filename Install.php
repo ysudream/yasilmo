@@ -6,8 +6,7 @@ include 'connect.php';
 // Team Order == 킅엘롯기엔넥한두슼삼
 
 $team_table="CREATE TABLE teams (
-num INT(6) AUTO_INCREMENT PRIMARY KEY,
-nalja BIGINT(255) NOT NULL,
+nalja BIGINT(255) NOT NULL PRIMARY KEY,
 ranks VARCHAR(255) NOT NULL
 )";
 
