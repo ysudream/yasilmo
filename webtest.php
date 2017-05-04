@@ -259,7 +259,10 @@
   <!--킅엘롯기엔넥한두슼삼-->
   <table class="table table-condensed">
   <tr>
-    <th> <lable for='1'>1위&nbsp;&nbsp;</lable></th>
+  <th><b>순위</b></th><th><b>팀</b></th>
+  </tr>
+  <tr>
+    <th><input type='text' size='2' name='1' class='form-control' placeholder='숫자만 입력'></th>
     <th>
     <select name='ONE' class='form-control input-sm' id='sel1'>
       <option value=''> 팀 선택하기</option>
@@ -278,7 +281,7 @@
     </tr>
  
   <tr>
-    <th> <lable for='2'>2위&nbsp;&nbsp;</lable></th>
+    <th><input type='text' size='2' name='2' class='form-control'></th>
     <th>
     <select name='TWO' class='form-control input-sm' id='sel1'>
       <option value=''> 팀 선택하기</option>
@@ -296,7 +299,7 @@
     </th>
     </tr>
   <tr>
-    <th> <lable for='3'>3위&nbsp;&nbsp;</lable></th>
+    <th><input type='text' size='2' name='3' class='form-control'></th>
     <th>
       <select name='THREE' class='form-control input-sm' id='sel1'>
       <option value=''> 팀 선택하기</option>
@@ -314,7 +317,7 @@
     </th>
     </tr>
    <tr>
-    <th> <lable for='4'>4위&nbsp;&nbsp;</lable></th>
+    <th><input type='text' size='2' name='4' class='form-control'></th>
     <th>
       <select name='FOUR' class='form-control input-sm' id='sel1'>
       <option value=''> 팀 선택하기</option>
@@ -332,7 +335,7 @@
         </th>
     </tr>
   <tr>
-    <th> <lable for='5'>5위&nbsp;&nbsp;</lable></th>
+    <th><input type='text' size='2' name='5' class='form-control'></th>
     <th>
       <select name='FIVE' class='form-control input-sm' id='sel1'>
       <option value=''> 팀 선택하기</option>
@@ -350,7 +353,7 @@
       </th>
     </tr>
    <tr>
-    <th> <lable for='6'>6위&nbsp;&nbsp;</lable></th>
+    <th><input type='text' size='2' name='6' class='form-control'></th>
     <th>
       <select name='SIX' class='form-control input-sm' id='sel1'>
       <option value=''> 팀 선택하기</option>
@@ -368,7 +371,7 @@
           </th>
     </tr>
    <tr>
-    <th> <lable for='7'>7위&nbsp;&nbsp;</lable></th>
+    <th><input type='text' size='2' name='7' class='form-control'></th>
     <th>
       <select name='SEVEN' class='form-control input-sm' id='sel1'>
       <option value=''> 팀 선택하기</option>
@@ -386,7 +389,7 @@
     </th>
     </tr>
      <tr>
-    <th> <lable for='8'>8위&nbsp;&nbsp;</lable></th>
+    <th><input type='text' size='2' name='8' class='form-control'></th>
     <th>
       <select name='EIGHT' class='form-control input-sm' id='sel1'>
       <option value=''> 팀 선택하기</option>
@@ -404,7 +407,7 @@
       </th>
     </tr>
    <tr>
-    <th> <lable for='9'>9위&nbsp;&nbsp;</lable></th>
+    <th><input type='text' size='2' name='9' class='form-control'></th>
     <th>
       <select name='NINE' class='form-control input-sm' id='sel1'>
       <option value=''> 팀 선택하기</option>
@@ -422,7 +425,7 @@
         </th>
     </tr>
    <tr>
-    <th> <lable for='10'>10위&nbsp;&nbsp;</lable></th>
+    <th><input type='text' size='2' name='10' class='form-control'></th>
     <th>
       <select name='TEN' class='form-control input-sm' id='sel1'>
       <option value=''> 팀 선택하기</option>
